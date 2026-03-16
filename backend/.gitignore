@@ -1,0 +1,19 @@
+# 1. Ignore absolutely everything by default
+*
+*/
+
+# 2. Whitelist the exact files needed for production
+!api.py
+!prompts.py
+!schemas.py
+!utils.py
+!token_bucket.py
+!requirements.txt
+!vercel.json
+!.gitignore
+!.vercelignore
+
+# 3. SECURITY: Explicitly re-ignore environment variables (Hard Override)
+.env
+.env.*
+.vercel

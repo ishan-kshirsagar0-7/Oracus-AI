@@ -1,0 +1,8 @@
+fastapi
+pydantic
+boto3
+python-dotenv
+faker
+pandas
+scikit-learn
+asyncio

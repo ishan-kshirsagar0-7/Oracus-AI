@@ -1,0 +1,19 @@
+# Allow these
+!src/
+!src/**
+!public/
+!public/**
+!index.html
+!package.json
+!package-lock.json
+!tsconfig.json
+!tsconfig.app.json
+!tsconfig.node.json
+!vite.config.ts
+!eslint.config.js
+!README.md
+!.gitignore
+!.vercelignore
+!vercel.json
+.vercel
+!.npmrc
