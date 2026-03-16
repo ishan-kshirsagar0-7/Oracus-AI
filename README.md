@@ -45,13 +45,12 @@ Oracus AI fills this gap by simulating market response using generative AI. You 
 ## 🚀 Live Application & Demo
 
 - **Live Web App:** [https://oracus-ai.vercel.app](https://oracus-ai.vercel.app)
-- **Live Backend API:** [https://oracus-backend.vercel.app](https://oracus-backend.vercel.app)
 
 ### Demo Video
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/REPLACE_WITH_YOUR_VIDEO_ID/maxresdefault.jpg" alt="Oracus AI Demo Video" width="600" />
+  <a href="https://www.youtube.com/watch?v=QildLHalMFw">
+    <img src="https://img.youtube.com/vi/QildLHalMFw/maxresdefault.jpg" alt="Oracus AI Demo Video" width="600" />
   </a>
   <br />
   <em>Click to watch the full demo on YouTube</em>
