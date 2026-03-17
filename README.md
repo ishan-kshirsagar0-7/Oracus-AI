@@ -9,7 +9,7 @@
 
   ---
 
-  🌐 [Live App](https://oracus-ai.vercel.app) · 🔗 [Backend API](https://oracus-backend.vercel.app) · 🏆 Built for the [Amazon Nova AI Hackathon](https://amazon-nova.devpost.com/)
+  🌐 [Live App](https://oracus-ai.vercel.app) · 🏆 Built for the [Amazon Nova AI Hackathon](https://amazon-nova.devpost.com/)
 
   **#AmazonNova**
 
